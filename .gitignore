@@ -81,7 +81,7 @@ typings/
 .env
 
 #AWS.yml file
-.yml
+aws.yml
 
 ### OSX ###
 *.DS_Store
