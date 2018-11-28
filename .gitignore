@@ -3,6 +3,7 @@ db
 .env
 temp
 build
+aws.yml
 
 # Created by https://www.gitignore.io/api/vim,osx,node,linux,windows
 ### Linux ###
@@ -81,7 +82,7 @@ typings/
 .env
 
 #AWS.yml file
-.yml
+aws.yml
 
 ### OSX ###
 *.DS_Store
